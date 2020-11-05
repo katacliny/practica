@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T12:03:58.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="JcMBkWblLMBrT88ujh3H" version="13.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-05T12:34:46.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="j2WL7-12uhsdm1lOSIa6" version="13.9.1" type="github" pages="3">
   <diagram id="-kXou0ZWH8-OpDwjOcQT" name="Página principal">
-    <mxGraphModel dx="667" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EpSklnjM6drHWeSckDdh" name="Añadir producto">
-    <mxGraphModel dx="667" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-0" />
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-1" parent="eoLg2DgX_vbLqCLr8q_D-0" />
@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i1UHRpn6TNowyPyujp69" name="Eliminar producto">
-    <mxGraphModel dx="325" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-0" />
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-1" parent="dKcQIGC4B1ddM-EPqeOf-0" />
@@ -95,10 +95,13 @@
           <mxGeometry x="90" y="100" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NV6vfhAtVrK03lanVFU0-0" value="Aceptar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
-          <mxGeometry x="90" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="100" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BtEGoiQxCkub0tXUlkNn-0" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;align=left;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
           <mxGeometry x="380" y="100" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="anUZ7a6iwOS8t_lDdpCg-0" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;labelBackgroundColor=none;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
+          <mxGeometry x="240" y="150" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
