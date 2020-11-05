@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T10:59:58.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zfsYqEUWUYcafEjl9Y6j" version="13.9.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-05T11:45:48.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="vQRmliJXNc527bL1rmiW" version="13.9.1" type="github" pages="4">
   <diagram id="-kXou0ZWH8-OpDwjOcQT" name="Página principal">
-    <mxGraphModel dx="701" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="369" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,20 +100,20 @@
         <mxCell id="CVvC9UaCx_BRj3oylWxW-0" value="Eliminar producto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
           <mxGeometry x="80" y="40" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iufEf8XvvwWsv6v5gURF-0" value="Seleccione la id del producto a eliminar:&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;labelBackgroundColor=none;align=left;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
+        <mxCell id="iufEf8XvvwWsv6v5gURF-0" value="Seleccione el id del producto a eliminar:&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;labelBackgroundColor=none;align=left;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
           <mxGeometry x="90" y="100" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NV6vfhAtVrK03lanVFU0-0" value="Aceptar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;labelBackgroundColor=none;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
           <mxGeometry x="90" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BtEGoiQxCkub0tXUlkNn-0" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;align=left;" vertex="1" parent="dKcQIGC4B1ddM-EPqeOf-1">
-          <mxGeometry x="385" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="100" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="0dZL0RkvZSDWaBCdryeT" name="Modificar producto">
-    <mxGraphModel dx="767" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Do7rbjJnTWw5q_ZrFek3-0" />
         <mxCell id="Do7rbjJnTWw5q_ZrFek3-1" parent="Do7rbjJnTWw5q_ZrFek3-0" />
