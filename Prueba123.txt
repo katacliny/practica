@@ -1,6 +1,6 @@
 Lucía haciendo commit y push...
-<<<<<<< HEAD
+
 1 2 3 
-=======
+
 Lucía mergeando rama a master....
 >>>>>>> ee14a0ca2b83520e07b28e7b8ebae4fa03faef0c
