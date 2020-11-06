@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T11:24:27.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zE0ogBtlmf0syrLdjy-6" version="13.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-06T14:01:44.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_3GRh63u3RjS2LqhunCu" version="13.9.1" type="github" pages="9">
   <diagram id="JE7RJHUmOD-XOfDB0uFe" name="Página principal - 1">
-    <mxGraphModel dx="809" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9Xrupegw-qmzZwdCUhiw-0" />
         <mxCell id="9Xrupegw-qmzZwdCUhiw-1" parent="9Xrupegw-qmzZwdCUhiw-0" />
@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AhxQ3QgP6YB24-s7e98g" name="Página creación consumidor - 2">
-    <mxGraphModel dx="809" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Jsl_DM8NN3253k9dvk3r-0" />
         <mxCell id="Jsl_DM8NN3253k9dvk3r-1" parent="Jsl_DM8NN3253k9dvk3r-0" />
@@ -79,7 +79,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Oa1AIFJpWBtZ4kWfqbIr" name="Página eliminación consumidor - 3">
-    <mxGraphModel dx="809" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DruD6BIXcNhoK_JJjto1-0" />
         <mxCell id="DruD6BIXcNhoK_JJjto1-1" parent="DruD6BIXcNhoK_JJjto1-0" />
@@ -102,7 +102,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2acTlxTTTcyEw-hLG-u4" name="Página modificación consumidor - 4">
-    <mxGraphModel dx="809" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6k4IRhNdPU6IsTDMQ7aX-0" />
         <mxCell id="6k4IRhNdPU6IsTDMQ7aX-1" parent="6k4IRhNdPU6IsTDMQ7aX-0" />
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YvA7WgkZAh0Jm4_9mcAi" name="Página Consumidor - 5">
-    <mxGraphModel dx="809" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nmEBnHcrOgPKRGbSxgyo-0" />
         <mxCell id="nmEBnHcrOgPKRGbSxgyo-1" parent="nmEBnHcrOgPKRGbSxgyo-0" />
@@ -177,11 +177,14 @@
         <mxCell id="As_NFayYTu5VZbyjqIk1-0" value="Hacer pedido" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nmEBnHcrOgPKRGbSxgyo-1">
           <mxGeometry x="140" y="280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3KUeO1K0hlr4iGQ2wgz2-0" value="Borrar pedido" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nmEBnHcrOgPKRGbSxgyo-1">
+          <mxGeometry x="300" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-kXou0ZWH8-OpDwjOcQT" name="Página principal Productos">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EpSklnjM6drHWeSckDdh" name="Añadir producto">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-0" />
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-1" parent="eoLg2DgX_vbLqCLr8q_D-0" />
@@ -268,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i1UHRpn6TNowyPyujp69" name="Eliminar producto">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-0" />
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-1" parent="dKcQIGC4B1ddM-EPqeOf-0" />
@@ -291,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dolk8pr5YzEO9Zzxz6Rz" name="Modificar producto ">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Foez7qP9RRV14owIFAZb-0" />
         <mxCell id="Foez7qP9RRV14owIFAZb-1" parent="Foez7qP9RRV14owIFAZb-0" />
