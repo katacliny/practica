@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T08:09:21.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="JarcyEhmM1RmY3-ujYvU" version="13.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-06T08:23:24.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="H8LwtvlPOFQLXw6HeFLd" version="13.9.1" type="github" pages="9">
   <diagram id="JE7RJHUmOD-XOfDB0uFe" name="Página principal - 1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,8 +153,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-kXou0ZWH8-OpDwjOcQT" name="Página principal Admin">
-    <mxGraphModel dx="700" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="-kXou0ZWH8-OpDwjOcQT" name="Página principal Admin - 6">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,8 +199,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EpSklnjM6drHWeSckDdh" name="Añadir producto">
-    <mxGraphModel dx="700" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="EpSklnjM6drHWeSckDdh" name="Añadir producto - 7">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-0" />
         <mxCell id="eoLg2DgX_vbLqCLr8q_D-1" parent="eoLg2DgX_vbLqCLr8q_D-0" />
@@ -240,8 +240,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="i1UHRpn6TNowyPyujp69" name="Eliminar producto">
-    <mxGraphModel dx="700" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="i1UHRpn6TNowyPyujp69" name="Eliminar producto - 8">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-0" />
         <mxCell id="dKcQIGC4B1ddM-EPqeOf-1" parent="dKcQIGC4B1ddM-EPqeOf-0" />
@@ -263,8 +263,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dolk8pr5YzEO9Zzxz6Rz" name="Modificar producto">
-    <mxGraphModel dx="700" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="dolk8pr5YzEO9Zzxz6Rz" name="Modificar producto - 9">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Foez7qP9RRV14owIFAZb-0" />
         <mxCell id="Foez7qP9RRV14owIFAZb-1" parent="Foez7qP9RRV14owIFAZb-0" />
