@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T15:09:13.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7K36wWttthLsyNFItiGm" version="13.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-09T15:09:42.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uIyPVhyj_xxntj1c_nuW" version="13.9.2" type="github" pages="5">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gzdHwLHRSyzXfy6atQhf" name="Página Pedidos - 6">
+  <diagram id="gzdHwLHRSyzXfy6atQhf" name="Página Pedidos">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GUcU57AzUGv5D8ua5dGI-0" />
