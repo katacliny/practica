@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T10:20:29.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WLBd2SbQVho7-vUNVelg" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T10:34:24.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IbqfaXMd88snrOTjJ1Zd" version="13.9.1" type="github">
   <diagram id="cP0yp2udwZNhgFJAQ88W" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="lFta8kSSbknl5XpenkpC-7" value="Button&amp;nbsp;&lt;br&gt;CREAR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="235" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lFta8kSSbknl5XpenkpC-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFta8kSSbknl5XpenkpC-4" target="lFta8kSSbknl5XpenkpC-22">
+        <mxCell id="lFta8kSSbknl5XpenkpC-9" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFta8kSSbknl5XpenkpC-4" target="lFta8kSSbknl5XpenkpC-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="250" as="sourcePoint" />
             <mxPoint x="135" y="320" as="targetPoint" />
@@ -40,7 +40,7 @@
         <mxCell id="lFta8kSSbknl5XpenkpC-12" value="PANTALLA MODIFICAR CONSUMIDOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lFta8kSSbknl5XpenkpC-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lFta8kSSbknl5XpenkpC-12">
+        <mxCell id="lFta8kSSbknl5XpenkpC-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.336;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lFta8kSSbknl5XpenkpC-4" target="lFta8kSSbknl5XpenkpC-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="280" as="sourcePoint" />
             <mxPoint x="510" y="310" as="targetPoint" />
