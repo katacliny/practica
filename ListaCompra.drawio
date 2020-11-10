@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T10:33:32.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="RQXEauNXtQcvY6JVWgxT" version="13.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-10T11:59:17.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ae1RN8sl7GUpAiA2I9ni" version="13.9.2" type="github" pages="6">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="499" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JE7RJHUmOD-XOfDB0uFe" name="Página consumidores">
-    <mxGraphModel dx="998" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9Xrupegw-qmzZwdCUhiw-0" />
         <mxCell id="9Xrupegw-qmzZwdCUhiw-1" parent="9Xrupegw-qmzZwdCUhiw-0" />
@@ -88,11 +88,14 @@
         <mxCell id="qkgVL1MJs17L4o5YYskw-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
           <mxGeometry x="600" y="460" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="Pantalla principal" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="9Xrupegw-qmzZwdCUhiw-1">
+          <mxGeometry x="350" y="710" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="oGccPNe0Vo_Gk9L0wp7k" name="Página modificación">
-    <mxGraphModel dx="499" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Xw8H62WZDZWN23Qor98x-0" />
         <mxCell id="Xw8H62WZDZWN23Qor98x-1" parent="Xw8H62WZDZWN23Qor98x-0" />
@@ -127,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ALhSMi8Ux_vQNglmKTie" name="Página Pedidos y Facturas">
-    <mxGraphModel dx="832" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i37LLWliPGDlSj_grzE--0" />
         <mxCell id="i37LLWliPGDlSj_grzE--1" parent="i37LLWliPGDlSj_grzE--0" />
@@ -357,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gzdHwLHRSyzXfy6atQhf" name="Página Consultar Productos">
-    <mxGraphModel dx="832" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GUcU57AzUGv5D8ua5dGI-0" />
         <mxCell id="GUcU57AzUGv5D8ua5dGI-1" parent="GUcU57AzUGv5D8ua5dGI-0" />
