@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T09:48:36.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IO8HtATqRXhJw_KeOn0C" version="13.9.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-10T09:50:59.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4lU7uftpLDWs120_MYhL" version="13.9.2" type="github" pages="6">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,6 +349,9 @@
         </mxCell>
         <mxCell id="xCoQBWNp47vAgnBwCMuF-11" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
           <mxGeometry x="140" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x3UxkjYo42mD3Ej4I49W-0" value="Cancelar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
+          <mxGeometry x="1050.5" y="620" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
