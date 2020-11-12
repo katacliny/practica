@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T09:41:07.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="EmMveWjfvTV7qIxRHMfX" version="13.9.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-12T10:18:41.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="EIqKzimrsNheR0TR-_1O" version="13.9.7" type="github" pages="6">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="qkgVL1MJs17L4o5YYskw-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
           <mxGeometry x="600" y="460" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="&amp;nbsp;Volver a la&lt;br&gt;Pantalla principal" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
-          <mxGeometry x="320" y="690" width="160" height="60" as="geometry" />
+        <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="&amp;nbsp;Volver&amp;nbsp;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
+          <mxGeometry x="321" y="690" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -469,7 +469,7 @@
         <mxCell id="vDTouCrBXUhJ2oBapFHV-11" value="13" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="GUcU57AzUGv5D8ua5dGI-1" vertex="1">
           <mxGeometry x="530" y="510" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vDTouCrBXUhJ2oBapFHV-12" value="Modificar producto" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GUcU57AzUGv5D8ua5dGI-1" vertex="1">
+        <mxCell id="vDTouCrBXUhJ2oBapFHV-12" value="Guardar cambios" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GUcU57AzUGv5D8ua5dGI-1" vertex="1">
           <mxGeometry x="410" y="630" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDTouCrBXUhJ2oBapFHV-13" value="Cancelar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="GUcU57AzUGv5D8ua5dGI-1" vertex="1">
