@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T12:08:29.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7xtdU0rWQKdbxdxamfZN" version="13.9.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-12T12:09:25.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NOAfpn2VwwcZOyJxm1Nn" version="13.9.7" type="github" pages="6">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nz117XyAdWPTFLOI48Ry-43" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
-          <mxGeometry x="375" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="400" y="760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="98F9GioYfa7urQuL5ReM-0" value="Consultar productos" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
           <mxGeometry x="330" y="360" width="160" height="40" as="geometry" />
