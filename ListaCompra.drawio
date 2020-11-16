@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T17:20:06.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DMyjkZYpGs5lJoiU8K23" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-16T17:20:22.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Vn5lYEXhBmP2lrqHKdOu" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     <mxGraphModel dx="1303" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bqpbrpflSrpJvVRuKn0Q-0" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
-          <mxGeometry x="140" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="390" y="640" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
