@@ -163,7 +163,7 @@
 
   <diagram id="ALhSMi8Ux_vQNglmKTie" name="Pantalla Pedidos y Facturas">
     <mxGraphModel dx="1117" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-=======
+
   <diagram id="ALhSMi8Ux_vQNglmKTie" name="PedidosUser">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
 
@@ -305,7 +305,7 @@
   </diagram>
 
   <diagram id="gzdHwLHRSyzXfy6atQhf" name="Pantalla Consultar Productos">
-=======
+
   <diagram id="gzdHwLHRSyzXfy6atQhf" name="ProductosUser">
 >>>>>>> e45378e7877729c1c5a4d35e831c8cd239e8bc97
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
