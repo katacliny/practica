@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T09:09:20.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="aPmMtkovhOq2GA_5O2td" version="13.9.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-16T09:11:46.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="t9Mi0nZGV9xyI90-s95-" version="13.9.7" type="github" pages="7">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -380,7 +380,7 @@
         <mxCell id="N7AAXWgwBTo1w0rkUezt-0" value="Ventas" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
           <mxGeometry x="480" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ek7fupaM3t7t4ZA3vw8A-0" value="Ver ventas totales" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
+        <mxCell id="Ek7fupaM3t7t4ZA3vw8A-0" value="Ventas totales" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
           <mxGeometry x="430" y="760" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
