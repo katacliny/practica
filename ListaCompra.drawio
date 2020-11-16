@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T15:58:47.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="P2-otGr0iZcJnWvdr1_K" version="13.9.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-11-16T15:59:12.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Y8oGpsEWGajfy1KqiQez" version="13.9.7" type="github" pages="11">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -619,6 +619,9 @@
         </mxCell>
         <mxCell id="gs4zi_AGXzCvbcXtx1KN-5" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
           <mxGeometry x="345" y="485" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-6" value="(hide)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="210" y="360" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
