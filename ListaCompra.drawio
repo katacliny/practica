@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T12:04:10.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Mn-90JGCrRVec2gG6SCT" version="13.9.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:05:54.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tDk2X550CN6sJ2hxq3Y9" version="13.9.7" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="qkgVL1MJs17L4o5YYskw-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
           <mxGeometry x="600" y="460" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="&amp;nbsp;Volver a la&lt;br&gt;Pantalla principal" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
-          <mxGeometry x="320" y="690" width="160" height="60" as="geometry" />
+        <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="Salir" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
+          <mxGeometry x="320" y="690" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FsndPml0Aiafj1CWUyFw-0" value="(admin)&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="9Xrupegw-qmzZwdCUhiw-1">
           <mxGeometry x="30" y="40" width="60" height="20" as="geometry" />
