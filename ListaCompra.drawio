@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T11:57:40.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T4Dn06NvxdOmBshc2OAt" version="13.9.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-16T11:58:25.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wbU9LALKBXbR6hkpRQdq" version="13.9.7" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -381,7 +381,7 @@
         <mxCell id="gtSSywg92RNJr4f1igdq-0" />
         <mxCell id="gtSSywg92RNJr4f1igdq-1" parent="gtSSywg92RNJr4f1igdq-0" />
         <mxCell id="NVuCf_DmHxvbGGpogdDF-0" value="Pedidos" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="gtSSywg92RNJr4f1igdq-1">
-          <mxGeometry x="240" y="150" width="120" height="150" as="geometry" />
+          <mxGeometry x="240" y="180" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NVuCf_DmHxvbGGpogdDF-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NVuCf_DmHxvbGGpogdDF-0">
           <mxGeometry y="30" width="120" height="40" as="geometry" />
@@ -411,7 +411,10 @@
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NVuCf_DmHxvbGGpogdDF-13" value="Lista desplegable id usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gtSSywg92RNJr4f1igdq-1">
-          <mxGeometry x="240" y="60" width="120" height="50" as="geometry" />
+          <mxGeometry x="240" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Voubbs7fGs99QIu9Q3WQ-0" value="Usuarios / Productos / Pedidos / Facturas /Ventas" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gtSSywg92RNJr4f1igdq-1">
+          <mxGeometry x="150" y="30" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
