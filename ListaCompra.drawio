@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T15:51:31.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="42RimN2psaD87VDhsSQ4" version="13.9.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-11-16T15:58:47.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="P2-otGr0iZcJnWvdr1_K" version="13.9.7" type="github" pages="11">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ukNA-M5yfLvQJVox_OQi-0" />
         <mxCell id="ukNA-M5yfLvQJVox_OQi-1" parent="ukNA-M5yfLvQJVox_OQi-0" />
@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J26Seye4ZjA8oSfv1_wp" name="ProductosAdmin">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IkqlsE2rRXLfGGcn5i6X-0" />
         <mxCell id="IkqlsE2rRXLfGGcn5i6X-1" parent="IkqlsE2rRXLfGGcn5i6X-0" />
@@ -601,6 +601,24 @@
         </mxCell>
         <mxCell id="_HwIJnfwxnCfabTrA6Dl-1" value="(icon)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="IkqlsE2rRXLfGGcn5i6X-1" vertex="1">
           <mxGeometry x="405" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-0" value="Nombre:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="280" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-1" value="Stock disponible:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="280" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-2" value="Precio:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="280" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-3" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="345" y="375" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-4" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="345" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gs4zi_AGXzCvbcXtx1KN-5" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="IkqlsE2rRXLfGGcn5i6X-1">
+          <mxGeometry x="345" y="485" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
