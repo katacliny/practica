@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T07:30:44.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="RDAIr0cUoMh_ENpj57bk" version="13.9.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-16T08:33:35.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WQ7vV6kDC8clPGf0u7Eq" version="13.9.9" type="github" pages="7">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JE7RJHUmOD-XOfDB0uFe" name="Página consumidores">
+  <diagram id="JE7RJHUmOD-XOfDB0uFe" name="Pantalla consumidores">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9Xrupegw-qmzZwdCUhiw-0" />
@@ -121,7 +121,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oGccPNe0Vo_Gk9L0wp7k" name="Página modificación">
+  <diagram id="oGccPNe0Vo_Gk9L0wp7k" name="Pantalla modificación">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Xw8H62WZDZWN23Qor98x-0" />
@@ -156,7 +156,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ALhSMi8Ux_vQNglmKTie" name="Página Pedidos y Facturas">
+  <diagram id="ALhSMi8Ux_vQNglmKTie" name="Pantalla Pedidos y Facturas">
     <mxGraphModel dx="1117" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i37LLWliPGDlSj_grzE--0" />
@@ -377,13 +377,13 @@
         <mxCell id="x3UxkjYo42mD3Ej4I49W-0" value="Cancelar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
           <mxGeometry x="1050.5" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ek7fupaM3t7t4ZA3vw8A-0" value="Ver ventas totales" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="i37LLWliPGDlSj_grzE--1">
+        <mxCell id="Ek7fupaM3t7t4ZA3vw8A-0" value="Ver ventas totales" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
           <mxGeometry x="430" y="760" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gzdHwLHRSyzXfy6atQhf" name="Página Consultar Productos">
+  <diagram id="gzdHwLHRSyzXfy6atQhf" name="Pantalla Consultar Productos">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GUcU57AzUGv5D8ua5dGI-0" />
@@ -544,7 +544,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X9XjgjpzO0fCe-23Yvjt" name="Página Pedidos">
+  <diagram id="X9XjgjpzO0fCe-23Yvjt" name="Pantalla Pedidos">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pWKRK-uw9n1GctfmE4rx-0" />
@@ -603,7 +603,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YQ9HqKBqkwCmIUPfzXAu" name="Ventas">
+  <diagram id="YQ9HqKBqkwCmIUPfzXAu" name="Pantalla Ventas">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Lf5e3cbGBjBOHW7xTaOy-0" />
@@ -689,7 +689,7 @@
         <mxCell id="GgJiTxlW-o9XyGGzy_DG-18" value="(hide)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Lf5e3cbGBjBOHW7xTaOy-1" vertex="1">
           <mxGeometry x="295" y="370" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tjGbyhZn4AgpVJ7SODCl-0" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Lf5e3cbGBjBOHW7xTaOy-1">
+        <mxCell id="tjGbyhZn4AgpVJ7SODCl-0" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Lf5e3cbGBjBOHW7xTaOy-1" vertex="1">
           <mxGeometry x="270" y="570" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
