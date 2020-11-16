@@ -133,10 +133,10 @@
       <root>
         <mxCell id="s5BNVZOFpAeI1Tt-CISt-0" />
         <mxCell id="s5BNVZOFpAeI1Tt-CISt-1" parent="s5BNVZOFpAeI1Tt-CISt-0" />
-        <mxCell id="RBrofBRSdEqnzJgqunxQ-0" value="Eliminar producto" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
+        <mxCell id="RBrofBRSdEqnzHgqunxQ-0" value="Eliminar producto" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
           <mxGeometry x="210" y="250" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RBrofBRSdEqnzJgqunxQ-1" value="Pagar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
+        <mxCell id="RBrofBRSdEqnzHgqunxQ-1" value="Pagar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
           <mxGeometry x="70" y="250" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIhqMrCuQW5ZF9IT0RtJ-0" value="Productos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="i37LLWliPGDlSj_grzE--1" vertex="1">
