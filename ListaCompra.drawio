@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T10:48:04.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7mEPhPt1pOGVJ2eA2btL" version="13.9.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-11-16T07:11:52.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9oOd_b8VyjrX8YkekcYv" version="13.9.7" type="github" pages="7">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,6 +655,9 @@
         </mxCell>
         <mxCell id="r1UM6rgtOCPv8byfeaIL-16" value="Lista desplegable para filtrar por fecha" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lf5e3cbGBjBOHW7xTaOy-1" vertex="1">
           <mxGeometry x="180" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="74iiGnx59WDaRuK1-8dK-0" value="Lista desplegable para filtrar por id consumidor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lf5e3cbGBjBOHW7xTaOy-1">
+          <mxGeometry x="340" y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
