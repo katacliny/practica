@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T12:01:02.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PmnsOS6lLPiAWtYA1xAH" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-17T12:11:35.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YuY2e0ekUjJwlOynQ1uE" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="397" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EOHDtg0WWwmapj3aBsKE" name="PedidosAdmin">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="462" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gtSSywg92RNJr4f1igdq-0" />
         <mxCell id="gtSSywg92RNJr4f1igdq-1" parent="gtSSywg92RNJr4f1igdq-0" />
@@ -429,7 +429,7 @@
           <mxGeometry x="275" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xmvaT6xeu0ODPT-CSPXR-0" value="Salir" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="gtSSywg92RNJr4f1igdq-1" vertex="1">
-          <mxGeometry x="375" y="620" width="70" height="50" as="geometry" />
+          <mxGeometry x="220" y="570" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fkAgJPjnz_VukRE3FM0i-3" value="Aplicar&lt;br&gt;&amp;nbsp;descuento" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="gtSSywg92RNJr4f1igdq-1" vertex="1">
           <mxGeometry x="325" y="250" width="100" height="50" as="geometry" />
@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sMj-tyfYTcK3QZqQKEQY" name="FacturasAdmin">
-    <mxGraphModel dx="542" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="T7pMqtonBq-e69Kt55Jh-0" />
         <mxCell id="T7pMqtonBq-e69Kt55Jh-1" parent="T7pMqtonBq-e69Kt55Jh-0" />
