@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T07:44:41.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Ego3K10k_cAHg_oB1aP-" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-17T07:45:02.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xrBkMGWXasOls7mX11wM" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -567,11 +567,11 @@
         <mxCell id="Bn8J7D5EQkCR8Q2RHdbr-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Bn8J7D5EQkCR8Q2RHdbr-9">
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KIgt4oFuUeU2tdBAwj9t-0" value="Ver pago" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
+        <mxCell id="KIgt4oFuUeU2tdBAwj9t-0" value="Ver pago" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
           <mxGeometry x="200" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KIgt4oFuUeU2tdBAwj9t-1" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
-          <mxGeometry x="195" y="560" width="70" height="50" as="geometry" />
+        <mxCell id="KIgt4oFuUeU2tdBAwj9t-1" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
+          <mxGeometry x="210" y="560" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KIgt4oFuUeU2tdBAwj9t-2" value="(hide)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
           <mxGeometry x="195" y="340" width="50" height="20" as="geometry" />
