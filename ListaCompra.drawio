@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T11:15:35.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="NSKcGZqgnfcuyaWcDRcb" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-17T11:16:28.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rEBxv5yKDVUo2dTTgY6V" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -351,6 +351,9 @@
         <mxCell id="QfqqY9vmgzGd3vLy7IK6-0" value="Usuarios / Productos / Pedidos / Facturas /Ventas" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="Lf5e3cbGBjBOHW7xTaOy-1" vertex="1">
           <mxGeometry x="170" y="30" width="330" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="styzAU37hhDE9jMKUUBd-0" value="Salir" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Lf5e3cbGBjBOHW7xTaOy-1">
+          <mxGeometry x="315" y="640" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -548,7 +551,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sMj-tyfYTcK3QZqQKEQY" name="FacturasAdmin">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="T7pMqtonBq-e69Kt55Jh-0" />
         <mxCell id="T7pMqtonBq-e69Kt55Jh-1" parent="T7pMqtonBq-e69Kt55Jh-0" />
