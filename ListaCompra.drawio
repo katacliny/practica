@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T07:57:04.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bgjfgctuqNh3aq485Ic1" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-17T08:00:25.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="reXP5N7CBjncYaGrDMdF" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ukNA-M5yfLvQJVox_OQi-0" />
         <mxCell id="ukNA-M5yfLvQJVox_OQi-1" parent="ukNA-M5yfLvQJVox_OQi-0" />
@@ -104,6 +104,12 @@
         </mxCell>
         <mxCell id="Mc2fQ1zBVUID_WkqstHb-0" value="&amp;nbsp;Volver&amp;nbsp;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9Xrupegw-qmzZwdCUhiw-1" vertex="1">
           <mxGeometry x="360" y="690" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_3t9d_GEUFuq1FSOh-c--0" value="Usuarios / Productos / Pedidos / Facturas /Ventas" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="9Xrupegw-qmzZwdCUhiw-1">
+          <mxGeometry x="130" y="30" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_3t9d_GEUFuq1FSOh-c--1" value="(por defecto)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="9Xrupegw-qmzZwdCUhiw-1">
+          <mxGeometry x="20" y="110" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -417,7 +423,7 @@
           <mxGeometry x="150" y="30" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JXx4Uuc3h-m2Ya7syMAo-6" value="(vinculo que vaya &lt;br&gt;a FacturasAdmin)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="gtSSywg92RNJr4f1igdq-1" vertex="1">
-          <mxGeometry x="410" y="130" width="110" height="30" as="geometry" />
+          <mxGeometry x="400" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xmvaT6xeu0ODPT-CSPXR-0" value="Salir" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gtSSywg92RNJr4f1igdq-1">
           <mxGeometry x="310" y="380" width="70" height="50" as="geometry" />
