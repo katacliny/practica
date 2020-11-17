@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T10:38:17.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="n22OB1etJOiO6_jtb0gE" version="13.9.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-17T10:39:43.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_ILpgaDUVdb4wylbUDWN" version="13.9.9" type="github" pages="9">
   <diagram id="1oytryBO9GSDGIrizIe0" name="Pantalla Principal">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -586,13 +586,13 @@
           <mxGeometry x="210" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KIgt4oFuUeU2tdBAwj9t-1" value="Volver" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
-          <mxGeometry x="255" y="560" width="70" height="50" as="geometry" />
+          <mxGeometry x="220" y="560" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KIgt4oFuUeU2tdBAwj9t-2" value="(hide)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
-          <mxGeometry x="265" y="340" width="50" height="20" as="geometry" />
+          <mxGeometry x="230" y="340" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KIgt4oFuUeU2tdBAwj9t-3" value="Pago" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="T7pMqtonBq-e69Kt55Jh-1">
-          <mxGeometry x="230" y="370" width="120" height="150" as="geometry" />
+          <mxGeometry x="195" y="370" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="KIgt4oFuUeU2tdBAwj9t-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KIgt4oFuUeU2tdBAwj9t-3">
           <mxGeometry y="30" width="120" height="40" as="geometry" />
